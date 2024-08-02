@@ -6,7 +6,7 @@ public class Child extends Parent {
 		System.out.println("Child - method2()");
 	}
 	
-	// ÀÚ¼Õ Å¬·¡½ºÀÇ ¸Ş¼­µå
+	// ìì† í´ë˜ìŠ¤ì˜ ë©”ì„œë“œ
 	void method3() {
 		System.out.println("Child - method3()");
 	}
