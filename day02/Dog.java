@@ -2,11 +2,11 @@ package day02_t;
 
 public class Dog extends Animal {
 	Dog(){
-		this.kind = "Æ÷À¯·ù";
+		this.kind = "í¬ìœ ë¥˜";
 	}
 
 	@Override
 	void sound() {
-		System.out.println("¸Û¸Û");	
+		System.out.println("ë©ë©");	
 	}
 }
